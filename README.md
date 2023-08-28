@@ -40,7 +40,7 @@ Yummy es una aplicación web que permite a los usuarios explorar y crear recetas
 ## Contáctame
 
 ¡No dudes en contactarme! Puedes encontrarme en :
-[LinkedIn](https://www.linkedin.com/in/lola-pernigotti-589830276/)
-correo a tuemail@gmail.com 
-[WhatsApp](https://wa.me/5492358411563?text=¡Hola,%20quiero%20saber%20más%20sobre%20tus%20proyectos!).
+- [LinkedIn](https://www.linkedin.com/in/lola-pernigotti-589830276/)
+- correo : pernigottilola@gmail.com 
+- [WhatsApp](https://wa.me/5492358411563?text=¡Hola,%20quiero%20saber%20más%20sobre%20tus%20proyectos!).
 
