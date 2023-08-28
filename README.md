@@ -4,7 +4,9 @@
 
 ## Sobre mí
 
-Soy una entusiasta estudiante de desarrollo web que busca oportunidades para crecer y aprender. Me apasiona la creación de soluciones digitales y estoy emocionada por el desarrollo en ambas áreas, front-end y back-end. Estoy abierta a oportunidades laborales, ya sea de forma presencial o remota.
+Soy estudiante de desarrollo web que busca oportunidades para crecer y aprender. 
+Me apasiona la creación de soluciones digitales.
+Estoy abierta a oportunidades laborales, ya sea de forma presencial o remota.
 
 ## Tecnologías
 
@@ -31,13 +33,14 @@ Soy una entusiasta estudiante de desarrollo web que busca oportunidades para cre
 
 ![Captura de pantalla de Yummy](URL de la captura de pantalla)
 
-Yummy es una aplicación web que permite a los usuarios explorar y crear recetas deliciosas. Utilicé tecnologías como React, Redux y Node.js para construir tanto el front-end como el back-end. La base de datos PostgreSQL almacena las recetas, mientras que una API externa proporciona ingredientes adicionales. Estoy emocionada por seguir mejorando y añadiendo nuevas funcionalidades para brindar una experiencia aún más completa.
+Yummy es una aplicación web que permite a los usuarios explorar y crear recetas deliciosas. Utilicé tecnologías como React, Redux y Node.js para construir tanto el front-end como el back-end. La base de datos PostgreSQL almacena las recetas que el usuario crea , mientras que una API externa proporciona recetas adicionales. Estoy emocionada por seguir mejorando y añadiendo nuevas funcionalidades para brindar una experiencia aún más completa.
 
-[Ver Repositorio](URL del repositorio)
+[Ver Repositorio](https://github.com/Lpernigotti/PI-Food-main)
 
 ## Contáctame
 
-¡No dudes en contactarme! Puedes encontrarme en [LinkedIn](URL de LinkedIn), enviarme un correo a tuemail@gmail.com o escribirme por [WhatsApp](URL de WhatsApp).
-
-¡Espero que te guste mi perfil y mis proyectos! 😊
+¡No dudes en contactarme! Puedes encontrarme en :
+[LinkedIn](https://www.linkedin.com/in/lola-pernigotti-589830276/)
+correo a tuemail@gmail.com 
+[WhatsApp](https://wa.me/5492358411563?text=¡Hola,%20quiero%20saber%20más%20sobre%20tus%20proyectos!).
 
